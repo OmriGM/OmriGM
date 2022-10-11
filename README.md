@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning: Cloud Computing and GoLang
 - 📫 How to reach me: omrigr123@gmail.com
 
